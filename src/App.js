@@ -1,6 +1,5 @@
 import React from 'react';
-import './App.css';
-import Users from './components/Users.json';
+import Filter from './components/Filter'
 import Table from './components/Table/Table';
 import Container from './components/Container';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -10,6 +9,7 @@ export default function App() {
     <div className='App'>
       <Container>
         <h1>User Directory</h1>
+        <Filter />
         <Table />
       </Container>
     </div>
