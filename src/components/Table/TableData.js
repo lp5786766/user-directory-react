@@ -2,7 +2,6 @@ import React from 'react';
 import Users from '../Users.json';
 
 export default function TableData() {
-  console.log(Users);
   return (
     <tbody className='user-table'>
       {Users.map((user) => (

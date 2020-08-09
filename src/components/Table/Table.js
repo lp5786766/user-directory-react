@@ -7,7 +7,7 @@ export default function Table() {
 
       
       <div className='table-responsive'>
-        <table className='table'>
+        <table className='table table-hover'>
           <TableHeader />
           <TableData />
         </table>

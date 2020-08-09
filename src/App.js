@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className='App'>
       <Container>
-        <h1>User Directory</h1>
+        <h1 className="margin">User Directory</h1>
         <Filter />
         <Table />
       </Container>
