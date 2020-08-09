@@ -1,70 +1,80 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "firstName": "Leanne",
+    "lastName": "Graham",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "occupation": "Web Developer"
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
+    "firstName": "Ervin",
+    "lastName": "Howell",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "occupation": "Salesperson"
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
+    "firstName": "Clementine",
+    "lastName": "Bauch",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "occupation": "UI/UX Designer"
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
+    "firstName": "Patricia",
+    "lastName": "Lebsack",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "occupation": "Web Developer"
   },
   {
     "id": 5,
-    "name": "Chelsey Dietrich",
+    "firstName": "Chelsey",
+    "lastName": "Dietrich",
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
     "occupation": "Office Admin"
   },
   {
     "id": 6,
-    "name": "Mrs. Dennis Schulist",
+    "firstName": "Mrs. Dennis",
+    "lastName": "Schulist",
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
     "occupation": "Business Consultant"
   },
   {
     "id": 7,
-    "name": "Kurtis Weissnat",
+    "firstName": "Kurtis",
+    "lastName": "Weissnat",
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
     "occupation": "Teacher"
   },
   {
     "id": 8,
-    "name": "Nicholas Runolfsdottir V",
+    "firstName": "Nicholas ",
+    "lastName": "Runolfsdottir",
     "username": "Maxime_Nienow",
     "email": "Sherwood@rosamond.me",
     "occupation": "Office Admin"
   },
   {
     "id": 9,
-    "name": "Glenna Reichert",
+    "firstName": "Glenna",
+    "lastName": "Reichert",
     "username": "Delphine",
     "email": "Chaim_McDermott@dana.io",
     "occupation": "UI/UX Designer"
   },
   {
     "id": 10,
-    "name": "Clementina DuBuque",
+    "firstName": "Clementina",
+    "lastName": "DuBuque",
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
     "occupation": "Financial Advisor"
