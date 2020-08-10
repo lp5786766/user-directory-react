@@ -4,6 +4,7 @@ import Table from './components/Table/Table';
 import Container from './components/Container';
 import 'bootstrap/dist/css/bootstrap.css';
 
+
 export default function App() {
   return (
     <div className='App'>
