@@ -5,9 +5,10 @@ import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <App />
-  </React.StrictMode>,
+  // {/* </React.StrictMode> */}
+  ,
   document.getElementById('root')
 );
 
