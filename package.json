@@ -10,7 +10,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "save-dev": "0.0.1-security"
   },
   "engines": {
     "npm": "6.13.4",
