@@ -19,6 +19,7 @@
   "homepage": "https://lp5786766.github.io/user-directory-react/",
   "scripts": {
     "start": "set PORT=3002 && react-scripts start",
+    "predeploy" : "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
